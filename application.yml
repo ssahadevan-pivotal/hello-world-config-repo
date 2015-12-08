@@ -1,5 +1,9 @@
 greeting: Hello %s from GitHub!
 
+security:
+  basic:
+    enabled: false
+    
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
