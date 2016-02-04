@@ -1,4 +1,4 @@
-greeting: Hello %s, step 2!
+greeting: Hello %s!
 
 security:
   basic:
