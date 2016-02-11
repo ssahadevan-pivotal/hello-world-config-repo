@@ -1,4 +1,4 @@
-greeting: Ola %s!
+greeting: Hello %s! How are you?
 
 security:
   basic:
